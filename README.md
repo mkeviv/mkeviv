@@ -17,6 +17,7 @@
   - [ ] Research about more clone implemetation (revisit FT, FFT, time , frequency domain etc)
   - [ ] Make a design for the app implementing TDD
   - [ ] Read about implementation by [Roy van Rijn](https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/) and available repos like [audio matcher](https://github.com/wsieroci/audio-recognizer)
+  - [ ] Do the implementation in Rust if POC works (to learn Rust)
   - [ ] To add further steps after above
 
 - [ ] Crafting Interpreters Book implemetation
