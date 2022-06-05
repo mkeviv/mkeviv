@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @mkeviv
+# 👋 Hi, I’m @mkeviv [Vivek M]
+
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 Reach out to me at : [Linkedin](https://www.linkedin.com/in/vivek-manoj/)
+## Welcome to my little space on the Internet where I experiment, hack and above all, Learn !
 
-<!---
-mkeviv/mkeviv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach out to me at : [Linkedin](https://www.linkedin.com/in/vivek-manoj/)
+
+### Current Task List and Things to do
+- [ ] Create a Shazam Clone 
+  - [ ] Read Shazam/Sceintific papers on audio matching
+  - [ ] Research about more clone implemetation (revisit FT, FFT, time , frequency domain)
+  - [ ] Make a design for the app implementing TDD
+  - [ ] To add further steps after above
+
+- [ ] Crafting Compilers Book implemetation
+  - [ ] To add further steps here afetr primary research
+
+- [ ] Java concurrency in practice book implementation
+  - [ ] To add further steps here after primary research
