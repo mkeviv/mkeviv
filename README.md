@@ -12,10 +12,11 @@
 💻 Birds eye view : [Personal Website](https://mkeviv.github.io/)
 
 ### Things I am planning to work on :
-- [ ] Create a Shazam Clone 
-  - [ ] Read Shazam/Sceintific papers on audio matching
-  - [ ] Research about more clone implemetation (revisit FT, FFT, time , frequency domain)
+- [ ] Create a audio matcher
+  - [ ] Read Shazam/Scientific papers on audio matching
+  - [ ] Research about more clone implemetation (revisit FT, FFT, time , frequency domain etc)
   - [ ] Make a design for the app implementing TDD
+  - [ ] Read about implementation by [Roy van Rijn](https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/) and available repos like [audio matcher](https://github.com/wsieroci/audio-recognizer)
   - [ ] To add further steps after above
 
 - [ ] Crafting Interpreters Book implemetation
